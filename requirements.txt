@@ -6,4 +6,3 @@ torch==2.13.0
 pandas==3.0.5
 numpy==2.5.2
 matplotlib==3.11.1
-torch_version=='0.28.0+cu130'
